@@ -11,7 +11,7 @@ Software developer and AI enthusiast. Competent and competitive.
 <a href="https://huggingface.co/boberoo" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFAE0A?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Badge"/>
 </a>
-<a href="https://www.youtube.com/channel/UCvPJJJ0lp6lyVk6xR0YLv_w" target="_blank">
+<a href="https://www.youtube.com/@aralbayda" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
 
