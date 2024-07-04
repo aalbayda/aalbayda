@@ -1,6 +1,6 @@
 # Hey, I'm Bob! 🦙
 
-Software developer and AI enthusiast. Competent and competitive.
+Software developer, cloud, and AI enthusiast
 
 <a href="https://www.linkedin.com/in/aalbayda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
